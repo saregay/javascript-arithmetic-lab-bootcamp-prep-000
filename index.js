@@ -18,7 +18,7 @@ function increment(n){
   return n += 1;
 }
 
-function decrements(n){
+function decrement(n){
   return n -= 1;
 }
 
