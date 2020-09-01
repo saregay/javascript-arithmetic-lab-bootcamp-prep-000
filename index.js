@@ -1,17 +1,11 @@
-
-
-function add2 () {
-  number +=2
+function add(a,b){
+  return a + b;
 }
 
-function subtract4 () {
-  number -=1
+function subtract(a,b){
+  return a - b;
 }
 
-function multiply5 () {
-  number *=5
-}
-
-function divide5 (){
-  number /=5
+function multiply(a,b){
+  return a * b;
 }
