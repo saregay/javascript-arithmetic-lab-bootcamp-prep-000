@@ -13,5 +13,5 @@ function multiply5 () {
 }
 
 function divide5 (){
-  number 
+  number /=5
 }
